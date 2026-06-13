@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Mohamed Aniq Zulfikar's mailing and office addresses at the Institute of Romance Philology."
 
 ---
 
@@ -10,7 +10,7 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
+Mohamed Aniq Zulfikar  
 Institute of Romance Philology  
 University of Regensburg  
 Regensburg, Germany
